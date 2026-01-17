@@ -41,20 +41,22 @@ The platform focuses on making learning **fast, intuitive, and addictive in a pr
 
 ## 🛠 Tech Stack (High-Level)
 
-* **Frontend**: Flutter (Android), Web
-* **Backend**: Cloud-based APIs
-* **Database**: Scalable NoSQL
-* **AI Layer**: Learning analysis & recommendation engine
+* **Frontend**: Flutter(Android), Next.js (web)
+* **Backend**: Vercel, Firebase
+* **Database**:Firebase
+* **AI Layer**: Gemini
 
 ---
 
 ## 🌐 Live Platform
 
+* 🌍 **Website**
+  [https://techielearns.com](https://techielearns.com)
+
 * 📲 **Android App**
   [https://play.google.com/store/apps/details?id=in.TechieLearns.app](https://play.google.com/store/apps/details?id=in.techielearn.app)
 
-* 🌍 **Web App**
-  [https://techielearns.com](https://techielearns.com)
+
 
 ---
 
