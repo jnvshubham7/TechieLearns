@@ -99,4 +99,14 @@ To create a **modern learning platform** where:
 * AI guides users instead of overwhelming them
 * Education feels engaging, not boring
 
+
+## 🌐 Live Platform
+
+* 🌍 **Website**
+  [https://techielearns.com](https://techielearns.com)
+
+* 📲 **Android App**
+  [https://play.google.com/store/apps/details?id=in.TechieLearns.app](https://play.google.com/store/apps/details?id=in.techielearn.app)
+
+
 ---
